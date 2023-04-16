@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastai_coursep2"
+  site-url: "https://PythonBen.github.io/fastai_coursep2"
+  description: "Course fastai part2,  building a library"
+  repo-branch: main
+  repo-url: "https://github.com/PythonBen/fastai_coursep2"
